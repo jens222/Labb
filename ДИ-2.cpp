@@ -1,5 +1,3 @@
-// Лабораторна робота №1 (варіант 9)
-// Завдання 1, 2, 7
 #include <iostream>
 #include <set>
 #include <string>
